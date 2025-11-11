@@ -1,6 +1,8 @@
 # lobato.test
 The Lobato and Velasco's Test for normality Use lobato.test (nortsTest) With (In) R Software
 
+https://www.youtube.com/watch?v=8JYblMkel0U
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
